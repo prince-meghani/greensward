@@ -1,0 +1,12 @@
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer input::placeholder {
+  color: #aaa;
+}
